@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pFD77tQtBQVwWu5zz/y+RkBEh+mfU9r5t3xgT/vrpYj6KrAdYrZH0Y1HCHwK3i06A+UmaidZ8O4gL/G6U/ZpDA==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\avaloniatest\\TestTask\\TestTask\\TestTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\monke\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\monke\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\monke\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\dev\avaloniatest\TestTask\TestTask\bin\Debug\net6.0-windows\TestTask.exe
+D:\dev\avaloniatest\TestTask\TestTask\bin\Debug\net6.0-windows\TestTask.deps.json
+D:\dev\avaloniatest\TestTask\TestTask\bin\Debug\net6.0-windows\TestTask.runtimeconfig.json
+D:\dev\avaloniatest\TestTask\TestTask\bin\Debug\net6.0-windows\TestTask.dll
+D:\dev\avaloniatest\TestTask\TestTask\bin\Debug\net6.0-windows\TestTask.pdb
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.csproj.AssemblyReference.cache
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.Form1.resources
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.csproj.GenerateResource.cache
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.AssemblyInfoInputs.cache
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.AssemblyInfo.cs
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.csproj.CoreCompileInputs.cache
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.dll
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\refint\TestTask.dll
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.pdb
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\TestTask.genruntimeconfig.cache
+D:\dev\avaloniatest\TestTask\TestTask\obj\Debug\net6.0-windows\ref\TestTask.dll
